@@ -28,14 +28,14 @@ body{
 }
 .topicon{
     display: flex;
-    width: 40%;
+    width: 69%;
     margin-top: 40px;
     margin-left: 130px;
-    margin-bottom: 80px;
+    margin-bottom: 85px;
 }
 .topicon h1{
     font-weight:bold;
-    font-size: 40px;
+    font-size: 43px;
     margin-top: 30px;
   
 }
@@ -73,7 +73,7 @@ body{
 .boxed{
     display: flex;
     margin-right: 100px;
-    margin-left: 30px;
+    margin-left: 20px;
 
  
 }
@@ -97,10 +97,12 @@ body{
 .boxes1 h4{
     color: white;
     text-align: center;
+    margin-top: 20px;
 }
 .boxes1 p{
     color: white;
     text-align: center;
+    margin-top: 20px;
 }
 .boxes2{
     
@@ -111,7 +113,7 @@ body{
     border: none;
     border-radius: 10px;
     margin-top: 50px;
-    margin-left: 120px;
+    margin-left: 40px;
 
 }
 .boxes2 img{
@@ -122,10 +124,12 @@ body{
 .boxes2 h4{
     color: white;
     text-align: center;
+    margin-top: 20px;
 }
 .boxes2 p{
     color: white;
     text-align: center;
+    margin-top: 20px;
     
 }
 .boxes3{
@@ -137,7 +141,7 @@ body{
     border: none;
     border-radius: 10px;
     margin-top: 50px;
-    margin-left: 120px;
+    margin-left: 40px;
 
 }
 .boxes3 img{
@@ -148,11 +152,13 @@ body{
 .boxes3 h4{
     color: white;
     text-align: center;
+    margin-top: 20px;
     
 }
 .boxes3 p{
     color: white;
     text-align: center;
+    margin-top: 20px;
     
 }
 .oneclick{
@@ -189,26 +195,27 @@ body{
     background-image: url(about_bg.jpg);
     display: flex;
     margin-top: 50px;
+
 }
 .footercontent{
-    width: 40%;
+    width: 30%;
     margin-top: 180px;
     margin-left: 150px
 }
 .footercontent h2{
     color: white;
     font-weight: bold;
-    font-size: 27px;
+    font-size: 35px;
 }
 .footercontent p{
     color: white;
     font-size: 13px;
-    margin-top: 12px;
+    margin-top: 15px;
 }
 .footerimage{
-    width: 70%;
+    width: 60%;
     margin-top: 75px;
-    margin-left: 60px;
+    margin-left: 40px;
     margin-right: 90px;
     padding: 15px 10px 20px 100px;
 }
